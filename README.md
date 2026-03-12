@@ -53,7 +53,7 @@ Aggregated view of common objections across listings
 ## Setup Instructions
 
 ### 1. Google Form
-**Form URL (for submissions)**: https://docs.google.com/forms/d/e/1FAIpQLSfZExample/viewform
+**Form URL (for submissions)**: https://docs.google.com/forms/d/e/1FAIpQLSd2AqWHq0_iYyWCPFkJK4_XdHX3FhlxEkvU8yVAQyPDmdSRDg/viewform
 **Form Edit URL**: https://docs.google.com/forms/d/15zOW7viuMbLMH4ULe0UK5EtWzomC6WtSxeBvQ2tvN2U/edit
 
 ### 2. Google Sheet
@@ -85,7 +85,7 @@ garson-team-re-tracking/
 
 ## Links
 
-- **Google Form (Submit)**: https://docs.google.com/forms/d/15zOW7viuMbLMH4ULe0UK5EtWzomC6WtSxeBvQ2tvN2U/viewform
+- **Google Form (Submit)**: https://docs.google.com/forms/d/e/1FAIpQLSd2AqWHq0_iYyWCPFkJK4_XdHX3FhlxEkvU8yVAQyPDmdSRDg/viewform
 - **Google Form (Edit)**: https://docs.google.com/forms/d/15zOW7viuMbLMH4ULe0UK5EtWzomC6WtSxeBvQ2tvN2U/edit
 - **Google Sheet**: https://docs.google.com/spreadsheets/d/15fOCdIJzA_Mx-mar40sIV8mLevZjrEXqVM2RHBib9-Q/edit
 - **GitHub Repo**: https://github.com/mjwmedia/garson-team-re-tracking
