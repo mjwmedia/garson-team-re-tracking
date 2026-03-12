@@ -1,0 +1,122 @@
+{
+  "formTitle": "Garson Team - Showing Feedback",
+  "formDescription": "Quick post-showing feedback form. Takes about 60 seconds to complete.",
+  "fields": [
+    {
+      "id": "property_address",
+      "label": "Property Address",
+      "type": "text",
+      "required": true,
+      "placeholder": "123 Main St, Tampa, FL 33609",
+      "helpText": "Full address of the property shown"
+    },
+    {
+      "id": "showing_date",
+      "label": "Showing Date",
+      "type": "date",
+      "required": true,
+      "helpText": "Date of the showing"
+    },
+    {
+      "id": "showing_time",
+      "label": "Showing Time",
+      "type": "time",
+      "required": false,
+      "helpText": "Approximate time of showing"
+    },
+    {
+      "id": "buyers_agent_name",
+      "label": "Buyer's Agent Name",
+      "type": "text",
+      "required": true,
+      "placeholder": "Jane Smith"
+    },
+    {
+      "id": "buyers_agent_phone",
+      "label": "Buyer's Agent Phone",
+      "type": "tel",
+      "required": false,
+      "placeholder": "(813) 555-1234"
+    },
+    {
+      "id": "buyers_agent_email",
+      "label": "Buyer's Agent Email",
+      "type": "email",
+      "required": false,
+      "placeholder": "agent@realty.com"
+    },
+    {
+      "id": "buyers_agent_brokerage",
+      "label": "Buyer's Agent Brokerage",
+      "type": "text",
+      "required": false,
+      "placeholder": "ABC Realty"
+    },
+    {
+      "id": "buyer_profile",
+      "label": "Buyer Profile",
+      "type": "paragraph",
+      "required": false,
+      "placeholder": "First-time buyer, relocating from NYC, budget $500-600k, needs 4BR for family...",
+      "helpText": "Describe the buyer - type, motivation, requirements, budget if known"
+    },
+    {
+      "id": "feedback",
+      "label": "Buyer Feedback",
+      "type": "paragraph",
+      "required": true,
+      "placeholder": "Loved the open floor plan, kitchen was a highlight...",
+      "helpText": "What did the buyer like? What stood out?"
+    },
+    {
+      "id": "objections",
+      "label": "Objections / Concerns",
+      "type": "paragraph",
+      "required": false,
+      "placeholder": "Concerned about traffic noise, felt master bedroom was small...",
+      "helpText": "Any concerns, objections, or hesitations expressed"
+    },
+    {
+      "id": "outcome",
+      "label": "Outcome",
+      "type": "dropdown",
+      "required": true,
+      "options": [
+        "Very Interested - Likely Offer",
+        "Interested - Want to See Again",
+        "Lukewarm - Keeping Options Open",
+        "Not Interested",
+        "Making Offer",
+        "Needs Follow-up"
+      ]
+    },
+    {
+      "id": "follow_up_needed",
+      "label": "Follow-up Needed?",
+      "type": "checkbox",
+      "required": false,
+      "options": [
+        "Send additional info/photos",
+        "Schedule second showing",
+        "Answer specific questions",
+        "Discuss price/terms",
+        "No follow-up needed"
+      ]
+    },
+    {
+      "id": "notes",
+      "label": "Additional Notes",
+      "type": "paragraph",
+      "required": false,
+      "placeholder": "Any other observations, next steps, or things to remember..."
+    },
+    {
+      "id": "submitted_by",
+      "label": "Submitted By",
+      "type": "text",
+      "required": true,
+      "placeholder": "Your name",
+      "helpText": "Team member submitting this feedback"
+    }
+  ]
+}
